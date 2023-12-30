@@ -1,12 +1,49 @@
-# CoinOPS for EmulationStation Desktop Edition (ES-DE)
+# CoinOPS x Slate System View Overhaul for EmulationStation Desktop Edition (ES-DE)
 
-This theme is a mashup of a CoinOPS theme by BritneysPAIRS (BP) and gjsmsmith, as well as [ARTFLIX](https://github.com/fagnerpc/Alekfull-ARTFLIX/) by [Alekfull](https://github.com/fagnerpc/), and [ARTFLIX-Colbalto](https://github.com/galisteogames/ARTFLIX-Cobalto/) by [Galisteo](https://github.com/galisteogames/)
+This customized theme **(built on Steam Deck)** is a fusion of the Slate CoinOPS theme by BritneysPAIRS (BP) and gjsmsmith, along with influences from [ARTFLIX](https://github.com/fagnerpc/Alekfull-ARTFLIX/) by [Alekfull](https://github.com/fagnerpc/) and [ARTFLIX-Colbalto](https://github.com/galisteogames/ARTFLIX-Cobalto/) by [Galisteo](https://github.com/galisteogames/).
+
+## Compatibility
+This theme is optimized for use with the Simple theme, ensuring that hardware elements do not overlap with the system name.
+
+## Customization
+To further edit and expand the theme:
+- Refer to the ConsoleWallpapers.fig file in the _inc directory to add your own additional console wallpapers.
+- Update your local device by adding new images to the following directories:
+  - _inc/systems/images (only paneloverlay.png was changed)
+  - _inc/systems/fanart
+  - _inc/systems/logos
+
+## Artwork Credits
+All credit for the original artwork goes to the respective creators. This modification involves restructuring and recoloring to align with the desired aesthetic.
+
+## Slate Theme Reference
+Explore the original Slate artwork at [Slate Theme](https://gitlab.com/es-de/emulationstation-de/-/tree/stable-2.2/themes/slate-es-de).
+
+Feel free to contribute and enhance this theme, and share your modifications with the community. Thank you for using the CoinOPS x Slate System View Overhaul for EmulationStation Desktop Edition (ES-DE)!
+
+## **Key Changes**
+- Removed Purple Hue on screen
+- Used Slate images to create a set of wallpapers
+- Changed Console logos on System view to white text where there is black (ex: Playstation 2 is now white text on System view)
 
 ## **Preview**
 
-| System View | Gamelist View |
-|----|----|
+| New System Views                                  |
+|---------------------------------------------------|
+| GC ![](_inc/screenshots/gcShowcase.jpg)           |
+| Genesis ![](_inc/screenshots/genesisShowcase.jpg) |
+| PSX ![](_inc/screenshots/psxShowcase.jpg)         |
+| PS2 ![](_inc/screenshots/ps2Showcase.jpg)         |
+| SNES ![](_inc/screenshots/snesShowcase.jpg)       |
+| N64 ![](_inc/screenshots/n64Showcase.jpg)         |
+| GBA ![](_inc/screenshots/gbaShowcase.jpg)         |
+| GBC ![](_inc/screenshots/gbcShowcase.jpg)         |
+
+
+| Old System View                                                                                                                                            | Gamelist View (UNCHANGED)                                                                                                                                  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Base Profile Screenshot 2023 04 21 - 20 11 03 68](https://user-images.githubusercontent.com/39314057/233753948-e11d35ac-d8a6-44dd-8e16-a787bcc3eec6.png) | ![Base Profile Screenshot 2023 04 21 - 20 11 17 86](https://user-images.githubusercontent.com/39314057/233753951-3a1f60e7-46ff-48dd-99ce-6f72f5b2d282.png) |
+
 
 ## **Configuration Options**
 
